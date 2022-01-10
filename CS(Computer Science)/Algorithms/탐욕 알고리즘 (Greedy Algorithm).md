@@ -66,8 +66,6 @@
 > ***Greedy Algorithm vs Dynamic Programming***
 > 
 
----
-
 ### 📌 **Greedy Algorithm**
 
 > **빠른 성능, 항상 최적의 해를 보장하지 않는다, 선택을 번복하지 않는다.**
